@@ -25,3 +25,10 @@ naive postponing required. total required computation by local tasks is lower th
 naive postponing required. total required computation by local tasks is lower than available computational resources. 
 naive postponing required. total required computation by local tasks is lower than available computational resources. 
 naive postponing required. total required computation by local tasks is lower than available computational resources. 
+decision making time: 0.6786322593688965 
+decision making time: 0.6323318481445312 
+decision making time: 0.21601581573486328 
+decision making time: 0.13110613822937012 
+decision making time: 0.1373748779296875 
+naive postponing required. total required computation by local tasks is lower than available computational resources. 
+decision making time: 0.1277310848236084 
